@@ -1,2 +1,2 @@
 # Hangman
-Hangman developed with C
+Hangman game developed with C
